@@ -1,0 +1,16 @@
+website:
+  - name: bianchengbang
+    url: www.biancheng.net
+  - name: lala
+    url: www.lala.net
+containers:
+  - name: abc
+    age: 18
+  - name: 222
+    age: 12
+
+pets: -dog
+  -cat
+  -pig
+
+name: zhangsan

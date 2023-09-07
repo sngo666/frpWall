@@ -1,0 +1,32 @@
+[
+{
+  "directory": "D:/workspace/CppWorkSpace/frpWall/build",
+  "command": "E:\\Software\\Qt\\Tools\\mingw810_64\\bin\\g++.exe  @CMakeFiles/frpWall.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\frpWall.dir\\main.cpp.obj -c D:\\workspace\\CppWorkSpace\\frpWall\\main.cpp",
+  "file": "D:/workspace/CppWorkSpace/frpWall/main.cpp"
+},
+{
+  "directory": "D:/workspace/CppWorkSpace/frpWall/build",
+  "command": "E:\\Software\\Qt\\Tools\\mingw810_64\\bin\\g++.exe  @CMakeFiles/frpWall.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\frpWall.dir\\app\\yamlUtils.cpp.obj -c D:\\workspace\\CppWorkSpace\\frpWall\\app\\yamlUtils.cpp",
+  "file": "D:/workspace/CppWorkSpace/frpWall/app/yamlUtils.cpp"
+},
+{
+  "directory": "D:/workspace/CppWorkSpace/frpWall/build",
+  "command": "E:\\Software\\Qt\\Tools\\mingw810_64\\bin\\g++.exe  @CMakeFiles/frpWall.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\frpWall.dir\\app\\logFilter.cpp.obj -c D:\\workspace\\CppWorkSpace\\frpWall\\app\\logFilter.cpp",
+  "file": "D:/workspace/CppWorkSpace/frpWall/app/logFilter.cpp"
+},
+{
+  "directory": "D:/workspace/CppWorkSpace/frpWall/build",
+  "command": "E:\\Software\\Qt\\Tools\\mingw810_64\\bin\\g++.exe  @CMakeFiles/frpWall.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\frpWall.dir\\app\\asio_request.cpp.obj -c D:\\workspace\\CppWorkSpace\\frpWall\\app\\asio_request.cpp",
+  "file": "D:/workspace/CppWorkSpace/frpWall/app/asio_request.cpp"
+},
+{
+  "directory": "D:/workspace/CppWorkSpace/frpWall/build",
+  "command": "E:\\Software\\Qt\\Tools\\mingw810_64\\bin\\g++.exe  @CMakeFiles/frpWall.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\frpWall.dir\\app\\file_operator.cpp.obj -c D:\\workspace\\CppWorkSpace\\frpWall\\app\\file_operator.cpp",
+  "file": "D:/workspace/CppWorkSpace/frpWall/app/file_operator.cpp"
+},
+{
+  "directory": "D:/workspace/CppWorkSpace/frpWall/build",
+  "command": "E:\\Software\\Qt\\Tools\\mingw810_64\\bin\\g++.exe  @CMakeFiles/frpWall.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\frpWall.dir\\include\\xdb_searcher.cpp.obj -c D:\\workspace\\CppWorkSpace\\frpWall\\include\\xdb_searcher.cpp",
+  "file": "D:/workspace/CppWorkSpace/frpWall/include/xdb_searcher.cpp"
+}
+]
